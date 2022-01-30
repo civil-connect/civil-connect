@@ -66,6 +66,9 @@ p {
     word-break: break-word;
     text-align: justify;
 }
+.certi-title p{
+  text-align: left;
+}
 .clearfix:before,
 .clearfix:after {
   content: " ";
